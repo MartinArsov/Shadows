@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Martin/Desktop/MartinArsovPhaser/js/IgraSenki.js",
+			"settings":
+			{
+				"buffer_size": 4350,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Martin/Desktop/MartinArsovPhaser/js/game54.js",
+		"/C/wamp64/www/Vezba3/js/game54.js",
+		"/C/Users/Martin/Downloads/MartinArsovPhaser/js/game54.js",
+		"/C/phaser3/index.html",
+		"/C/phaser3/Testphaser/Starting/js/game.js",
+		"/C/Users/Martin/Desktop/animals/animal10.png",
+		"/C/Users/Martin/Desktop/animals/animal11.png",
+		"/C/Users/Martin/Desktop/animals/animal19bw.png",
+		"/C/Users/Martin/Desktop/animals/animal10bw.png",
+		"/C/Users/Martin/Desktop/animals/animal18.png",
+		"/C/Users/Martin/Desktop/animals/animal18bw.png",
+		"/C/Users/Martin/Desktop/animals/animal17.png",
+		"/C/Users/Martin/Desktop/animals/animal17bw.png",
+		"/C/Users/Martin/Desktop/animals/animal16.png",
+		"/C/Users/Martin/Desktop/animals/animal16bw.png",
+		"/C/Users/Martin/Desktop/animals/animal15.png",
+		"/C/Users/Martin/Desktop/animals/animal15bw.png",
+		"/C/Users/Martin/Desktop/animals/animal14.png",
+		"/C/Users/Martin/Desktop/animals/animal14bw.png",
+		"/C/Users/Martin/Desktop/animals/animal13.png",
+		"/C/Users/Martin/Desktop/animals/animal13bw.png",
+		"/C/Users/Martin/Desktop/animals/animal12.png",
+		"/C/Users/Martin/Desktop/animals/animal12bw.png",
+		"/C/Users/Martin/Desktop/animals/animal11bw.png",
+		"/C/Users/Martin/Desktop/animals/animal19.png",
+		"/C/Users/Martin/Desktop/animals/animal20bw.png",
+		"/C/Users/Martin/Desktop/animals/animal20.png",
+		"/C/Users/Martin/Desktop/animals/animal21bw.png",
+		"/C/Users/Martin/Desktop/animals/animal21.png",
+		"/C/Users/Martin/Desktop/animals/animal22bw.png",
+		"/C/Users/Martin/Desktop/animals/animal1.png",
+		"/C/Users/Martin/Desktop/animals/animal22.png",
+		"/C/Users/Martin/Desktop/animals/animal1bw.png",
+		"/C/Users/Martin/Desktop/animals/animal2.png",
+		"/C/Users/Martin/Desktop/animals/animal2bw.png",
+		"/C/Users/Martin/Desktop/animals/animal3.png",
+		"/C/Users/Martin/Desktop/animals/animal3bw.png",
+		"/C/Users/Martin/Desktop/animals/animal5.png",
+		"/C/Users/Martin/Desktop/animals/animal4.png",
+		"/C/Users/Martin/Desktop/animals/animal5bw.png",
+		"/C/Users/Martin/Desktop/animals/animal6.png",
+		"/C/Users/Martin/Desktop/animals/animal6bw.png",
+		"/C/Users/Martin/Desktop/animals/animal7.png",
+		"/C/Users/Martin/Desktop/animals/animal4bw.png",
+		"/C/Users/Martin/Desktop/animals/animal7bw.png",
+		"/C/Users/Martin/Desktop/animals/animal8.png",
+		"/C/Users/Martin/Desktop/animals/animal8bw.png",
+		"/C/Users/Martin/Desktop/animals/animal9.png",
+		"/C/Users/Martin/Desktop/animals/animal9bw.png",
+		"/C/Users/Martin/Downloads/phaser (1).js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"info",
+			"wrongSo",
+			"total"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Martin/Desktop/MartinArsovPhaser/js/IgraSenki.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4220,
+								4220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2368.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "phaser.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
